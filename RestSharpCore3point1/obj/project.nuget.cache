@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5oPfxc5jGandzsy/bmXqmIXRf3rtCDveZdwp2WFOPTZa11frTQImRU9YaJtbSMBB1i5fL4SzGm5YdIB1uIDOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\RestSharpCore3point1\\RestSharpCore3point1\\RestSharpCore3point1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
